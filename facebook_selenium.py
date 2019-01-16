@@ -76,8 +76,8 @@ def get_data(driver, group):
     return count
 
 def main():
-    login = "pawlik806@gmail.com" # facebook email
-    passwd = "pawlik806"      # facebook password
+    login = "..." # facebook email
+    passwd = "..."      # facebook password
     group = "https://www.facebook.com/groups/241830595964149/"+"members/" 
     # Менять только ссылку на группу или числовой id
     
